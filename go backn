@@ -27,4 +27,4 @@ receiver\n\n",w);
  printf("\nAcknowledgement of above frames sent is received by sender\n");
  return 0;
 }
-OUTPUT
+
